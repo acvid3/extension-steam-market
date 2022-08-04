@@ -1,0 +1,10 @@
+.control_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: #333;
+    box-shadow: 0 0 15px #333;
+}
